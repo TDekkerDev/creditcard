@@ -1,5 +1,8 @@
 body {
-    background-color: rgb(150, 198, 240);
+    background-image: url("imeges/20210902_092023.jpg");
+    background-color: #cccccc;
+
+    background-size: 100% 100%;
 }
 
 
